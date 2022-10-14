@@ -16,5 +16,14 @@
 ### :egg: También se basaran en el área de Agroindustria que se dedican a  la producción, industrialización y comercialización de productos agrícolas, ganaderos, forestales y otros recursos naturales biológicos. Implica la intensificación de productos y el extractivismo, mediante el uso de la industria agropecuaria, la silvicultura y la pesca.
 
 
-Para su correcta funcionalidad tiene que verse desde Visual stude code las extensiones go live y watch sass
-Proyecto validado por W3C
+## Para su correcta funcionalidad tiene que verse desde Visual stude code las extensiones go live y watch sass.
+## Proyecto validado por W3C.
+
+
+
+# 2558346 
+Andrés Felipe Barrera Cuevas.
+Ivonne Ximena Lopéz Ortíz.
+Jose Santiago Rojas.
+Laura Camila Montaño. 
+
